@@ -14,7 +14,7 @@ export const SITE = {
     tagline: "Free 2025 Coverage Calculator",
     description: "Calculate how much life insurance you need for free. Estimate coverage, compare term vs whole life, and get premium quotes. Protect your family today.",
     year: 2025,
-    baseUrl: "https://life-insurance-calc.vercel.app",
+    baseUrl: "https://life-insurance.mysmartcalculators.com",
 };
 
 // ============================================
